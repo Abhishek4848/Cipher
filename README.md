@@ -6,7 +6,7 @@ In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift ciphe
 ```
 git clone https://github.com/Abhishek4848/Cipher.git
 ```
-3. Executing the program
+2. Execute the code
 ```
 python3 cipher.py
 ```
